@@ -1,0 +1,45 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  min-height: 100vh;
+  background: url(https://png.pngtree.com/background/20230613/original/pngtree-anime-asian-food-wallpaper-anime-dining-food-wallpaper-illustration-picture-image_3373899.jpg) no-repeat;
+  background-size: cover; 
+  background-position: center;
+
+}
+.profile {
+  background-color: #432616;
+    border: 1px solid brown;
+    padding: 10px;
+    margin: 10px;
+}
+
+.profile h1 {
+  color: white;
+    text-align: center;
+}
+
+.profile p {
+  color:white;
+    margin-bottom: 5px;
+}
+
+.review {
+  color:white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.review p:first-child {
+    font-weight: bold;
+  color:orange;
+  text-align:center;
+}
+
+.profile h2 {
+    text-align: center;
+    font-size: 2em;
+  color:orange;
+
+}
