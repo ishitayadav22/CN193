@@ -1,1 +1,1 @@
-Flavor Folio - Home page and login page
+Flavor Folio 
